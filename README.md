@@ -1,4 +1,4 @@
-# 3rd Year: Final Year Project - Mobile Application Focusing on Understanding of Maths Relations
+# Year 3: Final Year Project - Mobile Application Focusing on Understanding of Maths Relations
 
 This repo will contain the code, and report of my final year project that was undertaken by me in my 3rd year of university.
 
