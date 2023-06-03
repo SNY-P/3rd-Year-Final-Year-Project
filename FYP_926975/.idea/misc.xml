@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1606425702811245" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout-w936dp/activity_login.xml" value="0.1875" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_cart_prod.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_cartesian_product.xml" value="0.264" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_cartesian_results.xml" value="0.264" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_cartesian_retry.xml" value="0.264" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_choose_page.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_choose_results.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_cprod_retry.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_main_reflexive.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_main_symmetric.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_reflex.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_reflexive.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_reflexive_def.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_reflexive_question.xml" value="0.264" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_reflexive_results.xml" value="0.264" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_reflexive_retry.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_rel_on_set.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_results.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_show_results.xml" value="0.1610738255033557" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_sym.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_symmetric.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_symmetric_question.xml" value="0.264" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_symmetric_results.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_symmetric_retry.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_transitive.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_transitive_question.xml" value="0.264" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_transitive_results.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_transitive_retry.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/activity_true_or_false.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/cart_result_list.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/cartesian_result_list.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/popup_window.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/reflexive_result_list.xml" value="0.264" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/symmetric_result_list.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/toolbar.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/layout/transitive_result_list.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/menu/menu_empty.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/menu/menu_home.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/menu/menu_home_logout.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/menu/menu_home_result_logout.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/menu/menu_logout.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/menu/menu_result_logout.xml" value="0.25" />
+        <entry key="..\:/Users/sonny/AndroidStudioProjects/FYP_926975/app/src/main/res/menu/menu_use.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

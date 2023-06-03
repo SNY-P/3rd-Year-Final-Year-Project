@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fyp_926975" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FYP_926975" >
+        <activity
+            android:name=".symmetricRetryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".transitiveRetryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".transitiveResultsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".symmetricResultsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".reflexiveResultsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".cartesianRetryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".cartesianResultsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".chooseResultsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".symmetricQuestionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".transitiveQuestionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".reflexiveQuestionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".choosePageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".cartesianProductActivity"
+            android:exported="false" />
+        <activity
+            android:name=".loginActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
